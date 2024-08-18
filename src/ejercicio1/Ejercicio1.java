@@ -30,7 +30,7 @@ public class Ejercicio1 {
         ahorroa=ahorrom*12;
         System.out.println("Ahorro mensual: "+ahorrom);
         System.out.println("Ahorro anual: "+ahorroa);
-        
+        //exito
     }
     
 }
